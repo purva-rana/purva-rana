@@ -3,9 +3,9 @@ Hi there! Thanks for visiting my profile.
 This README is a showcase of my work and passion for building at the intersection of human and artificial intelligence.
 -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBwOWVzMHY2b2h2bTNuYjVmMmczbDRiNHZ3aGZkZzF2MnA0aXVnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2b/giphy.gif" width="300" />
-</div>
+</div> -->
 
 <h1 align="center">Hi, I'm Purva Rana 👋</h1>
 <h3 align="center">A Builder, Designer, and AI Integrator crafting Human-AI Partnerships.</h3>
