@@ -7,12 +7,12 @@ This README is a showcase of my work and passion for building at the intersectio
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBwOWVzMHY2b2h2bTNuYjVmMmczbDRiNHZ3aGZkZzF2MnA0aXVnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2b/giphy.gif" width="300" />
 </div> -->
 
-<h1 align="center">Hi, I'm Purva Rana 👋</h1>
-<h3 align="center">A Builder, Designer, and AI Integrator crafting Human-AI Partnerships.</h3>
+<h1>Hi, I'm Purva Rana 👋</h1>
+<h3>A Builder, Designer, and AI Integrator crafting Human-AI Partnerships.</h3>
 
-<p align="center">
+<p>
 My work explores the intersection of code, design, and cognition—creating tools that don't just automate, but collaborate. <br>
-<a href="https://purvaportfolio-theta.vercel.app/" target="_blank" align="center"><strong>Explore my full interactive portfolio »</strong></a>
+<a href="https://purvaportfolio-theta.vercel.app/" target="_blank" ><strong>Explore my full interactive portfolio »</strong></a>
 </p>
 
 <br>
@@ -29,7 +29,7 @@ I'm a final-year Computer Science student with a passion for building intelligen
 
 <br>
 
-## 🛠️ My Go-To Stack
+## 🛠️ My Development Arsenal
 <!-- [![My Skills](https://skillicons.dev/icons?i=ai,py,pytorch,java,mongodb,mysql,react,nodejs,vite,threejs,git,flutter,dart,c,cpp,php,cs,html,css,tailwind,bootstrap,blender,unity&theme=light)](https://skillicons.dev)-->
 <table>
 <tr> <td align="center"><strong>AI & Data Science</strong></td> <td>
