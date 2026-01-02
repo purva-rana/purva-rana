@@ -12,7 +12,7 @@ This README is a showcase of my work and passion for building at the intersectio
 
 <p>
 My work explores the intersection of code, design, and cognition—creating tools that don't just automate, but collaborate. <br>
-<a href="https://purvaportfolio-theta.vercel.app/" target="_blank" ><strong>Explore my full interactive portfolio »</strong></a>
+<a href="https://www.purvarana.com" target="_blank" ><strong>Explore my full interactive portfolio »</strong></a>
 </p>
 
 <br>
