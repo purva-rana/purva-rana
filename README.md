@@ -103,7 +103,7 @@ I'm always open to discussing new ideas, research collaborations, or interesting
 <a href="https://linkedin.com/in/purva-rana" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
-<a href="https://purvaportfolio-theta.vercel.app/" target="_blank">
+<a href="https://www.purvarana.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio"/>
 </a>
 </p>
