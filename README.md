@@ -11,7 +11,7 @@ This README is a showcase of my work and passion for building at the intersectio
 <h3>A Builder, Designer, and AI Integrator crafting Human-AI Partnerships.</h3>
 
 <p>
-My work explores the intersection of code, design, and cognition—creating tools that don't just automate, but collaborate. <br>
+My work explores the intersection of code, design, and cognition, creating tools that don't just automate, but also collaborate. <br>
 <a href="https://www.purvarana.com" target="_blank" ><strong>Explore my full interactive portfolio »</strong></a>
 </p>
 
@@ -21,11 +21,11 @@ My work explores the intersection of code, design, and cognition—creating tool
 ## 🚀 About Me
 I'm a final-year Computer Science student with a passion for building intelligent systems that augment human creativity and productivity. My focus is on the collaborative space where people and AI co-create and co-work.
 
-🧠 AI & Applied ML: I love leveraging generative models and NLP to build useful flows and assistants.
+- AI & Applied ML: I love leveraging generative models and NLP to build useful flows and assistants.
 
-🎨 Builder-Designer: I craft intuitive UI/UX with a strong visual sensibility, bringing ideas to life from wireframe to deployment.
+- Builder-Designer: I craft intuitive UI/UX with a strong visual sensibility, bringing ideas to life from wireframe to deployment.
 
-🔗 Systems Connector: I'm comfortable stitching together frontend, backend, and model layers to build robust, end-to-end demos.
+- Systems Connector: I'm comfortable stitching together frontend, backend, and model layers to build robust, end-to-end demos.
 
 <br>
 
